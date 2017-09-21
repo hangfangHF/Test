@@ -13,7 +13,4 @@
   <f:entry title="Name" field="name">
     <f:textbox />
   </f:entry>
-  <f:entry title="${%Build Debug Version?}">
-
-  </f:entry>
 </j:jelly>
