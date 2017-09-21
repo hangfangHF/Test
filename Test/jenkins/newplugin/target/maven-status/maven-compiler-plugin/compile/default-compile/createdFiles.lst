@@ -1,0 +1,5 @@
+test\newplugin\HelloWorldBuilder.stapler
+test\newplugin\HelloWorldBuilder$DescriptorImpl.class
+test\newplugin\HelloWorldBuilder\DescriptorImpl\doCheckName.stapler
+META-INF\annotations\hudson.Extension
+test\newplugin\HelloWorldBuilder.class
