@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<l:dependencies xmlns:l='licenses' groupId='com.alven.jenkins' artifactId='customize-parameter' version='1.0'><l:dependency name='customize-parameter' groupId='com.alven.jenkins' artifactId='customize-parameter' version='1.0' url='http://jenkins-ci.org/plugin/customize-parameter/'><l:description/></l:dependency></l:dependencies>

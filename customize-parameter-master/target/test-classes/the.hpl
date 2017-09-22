@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Group-Id: com.alven.jenkins
+Short-Name: customize-parameter
+Long-Name: customize-parameter
+Url: http://jenkins-ci.org/plugin/customize-parameter/
+Plugin-Version: 1.0
+Hudson-Version: 1.509.4
+Jenkins-Version: 1.509.4
+Plugin-Developers: 
+Libraries: D:\工作文件\相关文件\jekins\customize-parameter-master\targ
+ et\classes
+Resource-Path: D:\工作文件\相关文件\jekins\customize-parameter-master\
+ src\main\webapp
+
